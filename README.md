@@ -2,7 +2,7 @@
 
 I'm a full stack dev based in Kanagawa, Japan
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-Cactuslayout=compact)
+https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-Cactuslayout=compact
 <!--
 **Jon-Cactus/Jon-Cactus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
