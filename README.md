@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan
 
-I'm a full stack dev based in Kanagawa, Japan
+I'm a tech recruiter based in Kanagawa, Japan
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-Cactus&layout=compact)
 <!--
